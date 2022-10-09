@@ -7,7 +7,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 ## Projects Source Codes:
 - [Hangman game](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/hangman_game/hangman.py)
    * python semantics & syntax
-- [MyPhotoshop](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/myphotoshop/best_photoshop_award.py)
+- [MyPhotoshop](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/my_photoshop/best_photoshop_award.py)
    * image processing
 - [My drawing](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/mydrawing/my_drawing.py)
    * image processing
@@ -15,5 +15,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
    * animation & game designing
 - [Boggle game solver](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/boggle_game_solver/boggle.py)
    * recursive functions
-- [Name popularity searching system](http://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/name_searching_system/babygraphics.py)
+- [Name popularity searching system](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/name_searching_system/babygraphics.py)
    * data structure
