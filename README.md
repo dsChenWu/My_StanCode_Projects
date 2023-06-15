@@ -1,4 +1,4 @@
-## *stanCode* Projects
+## *StanCode* Projects
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 and SC201 courses.
 The topics covered by:
